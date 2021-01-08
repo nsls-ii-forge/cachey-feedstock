@@ -5,11 +5,9 @@ Home: http://github.com/mrocklin/cachey
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/cachey-feedstock/blob/master/LICENSE.txt)
 
 Summary: Caching mindful of computation/storage costs
-
-
 
 Current build status
 ====================
